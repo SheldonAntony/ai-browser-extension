@@ -1,1 +1,1 @@
-this is a project.
+This project is a Multi-AI context import tool
